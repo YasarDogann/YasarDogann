@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there I'm Yasar Dogan 👋
+- 🔭 I’m currently working on .NET programming & Java programming
+- 🌱 I’m currently learning Nodejs & React
+- 💬 Ask me about C# & Java
 <!--
 **YasarDogann/YasarDogann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
